@@ -1,0 +1,10 @@
+# IDEA
+/.idea/
+
+
+# BUILD
+*.pyc
+
+
+# OUTPUTS
+/output/
