@@ -1,0 +1,328 @@
+job_id,job_title,category
+2,VFX Head of department,VFX
+3,3D Sequence supervisor,VFX
+4,3D Supervisor,VFX
+6,Animator,VFX
+8,Animator,VFX
+9,Generalist TD,VFX
+11,Generalist TD,VFX
+12,Effects TD,VFX
+14,Effects TD,VFX
+15,Lighting TD,VFX
+17,Lighting TD,VFX
+18,Pipeline TD,VFX
+20,Pipeline TD,VFX
+21,Crowd TD,VFX
+23,Crowd TD,VFX
+24,Creature TD,VFX
+26,Creature TD,VFX
+27,Environment TD,VFX
+29,Environment TD,VFX
+30,ATD,VFX
+32,ATD,VFX
+33,Modeller,VFX
+35,Modeller,VFX
+36,Rigger,VFX
+37,Rigger,VFX
+38,Rigger,VFX
+39,Tracking supervisor,VFX
+40,Tracker,VFX
+42,Tracker,VFX
+43,Matte Painter,VFX
+45,Matte Painter,VFX
+46,Concept artist,VFX
+47,Concept artist,VFX
+48,Concept artist,VFX
+49,Texture artist,VFX
+50,Texture artist,VFX
+51,Texture artist,VFX
+52,Shader Writer,VFX
+54,Shader Writer,VFX
+55,Previs Artist,VFX
+57,Previs Artist,VFX
+58,2D Sequence Supervisor,VFX
+60,Compositing Artist,VFX
+62,Compositing Artist,VFX
+63,Roto Prep Artist,VFX
+64,Roto Prep Artist,VFX
+65,Roto Prep Artist,VFX
+67,VFX Department Manager,VFX
+69,Artist Crew Manager,VFX
+70,Production Manager Line Producer,VFX
+73,Editor,VFX
+74,Editor,VFX
+75,Editor,VFX
+77,VFX Department manager,VFX
+78,Software Developer,VFX
+80,Software Developer,VFX
+81,Software Tester,VFX
+83,Systems Engineer,VFX
+85,Systems Engineer,VFX
+86,Data Operator - Render Wrangler,VFX
+87,Data Operator - Render Wrangler,VFX
+88,Data Operator - Render Wrangler,VFX
+89,Runner,VFX
+90,Runner,VFX
+92,Stand Ins Photo Doubles,Physical production
+93,Casting Director,Physical production
+94,Casting Assistant,Physical production
+96,Unit Manager,Physical production
+97,Location Manager,Physical production
+98,Assistant Location Manager,Physical production
+99,1st Assistant Director,Physical production
+100,2nd Assistant Director,Physical production
+101,3rd Assistant Director,Physical production
+102,Location Assistant,Physical production
+103,Production Coordinator,Physical production
+104,Production Coordinator,Physical production
+105,Production Secretary,Physical production
+106,Office Production Assistant,Physical production
+107,Production Accountant,Physical production
+108,Production Accountant,Physical production
+111,Script Supervisor Continuity,Physical production
+112,Art Director,Physical production
+113,1st Assistant Art Director,Physical production
+114,Art Department Assistant,Physical production
+116,Construction Manager,Physical production
+117,Construction Foreman Coordinator,Physical production
+118,Carpenter,Physical production
+121,Painter,Physical production
+123,Carpenter,Physical production
+124,Painter,Physical production
+126,Set Decorator,Physical production
+127,Set Decorator,Physical production
+128,Set Dresser,Physical production
+129,Dressing Props,Physical production
+130,Property Master,Physical production
+131,Property Master,Physical production
+132,Prop Hand,Physical production
+133,Property Buyer,Physical production
+134,Special Effects Supervisor,Physical production
+135,Special effects technician,Physical production
+136,Special effects technician,Physical production
+137,Special effects technician,Physical production
+138,Costume Designer,Physical production
+140,Costume Supervisor,Physical production
+141,Costume Supervisor,Physical production
+142,Costume Maker,Physical production
+144,Costumers,Physical production
+145,Make Up and Hair,Physical production
+146,Chief Make Up Artist,Physical production
+147,Make Up and Hair,Physical production
+151,Make Up and Hair,Physical production
+152,Prosthetics Artist,Physical production
+153,Floor Manager,Physical production
+157,Grips,Physical production
+158,Stagehands,Physical production
+159,Director of Photography,Physical production
+161,1st Assistant Cameraperson,Physical production
+162,Digital Imaging Technician,Physical production
+163,2nd Assistant Cameraperson,Physical production
+167,Best Boy,Physical production
+168,Rigger,Physical production
+170,Crane Grip,Physical production
+172,Mixer Sound Recordist,Physical production
+174,Coordinator,Physical production
+176,3D modelling artist,Video games
+179,Assistant games producer,Video games
+189,Games music composer,Video games
+192,Games sound designer,Video games
+225,Modeller,Animation
+236,Post production Runner,Post-production
+240,Deliverables Producer,Post-production
+243,Supervising sound editor,Post-production
+249,Library assistant,Post-production
+250,First assistant editor,Post-production
+251,Second assistant editor,Post-production
+252,Third assistant editor,Post-production
+253,Edit assistants,Post-production
+255,Dialogue ADR editor,Post-production
+256,Visual effects (VFX) supervisor,Post-production
+258,Post digital imaging technician,Post-production
+260,Composer,Post-production
+261,Quicktime producer,Post-production
+262,Quicktime author,Post-production
+263,Quicktime compressionist,Post-production
+268,Translator subtitler,Post-production
+270,Sound effects editor,Post-production
+275,ADR mixer,Post-production
+276,ADR dialogue editor,Post-production
+278,Dubbing assistant,Post-production
+283,Marketing Manager,Distribution
+291,Kiosk supervisor,Exhibition
+294,Box office manager,Exhibition
+295,Kiosk staff,Exhibition
+308,Ticket collector,Exhibition
+309,Venue assistant manager,Exhibition
+322,Virtual Print Fee (digital delivery),Exhibition
+326,Video designers,Exhibition
+329,Marketing assistant,Exhibition
+330,Marketing coordinator,Exhibition
+109,Accounts Assistant,Physical production
+110,Production Designer,Physical production
+115,Graphic Artist,Physical production
+120,Scenic Painter,Physical production
+139,Costume Designer,Physical production
+143,Costume Assistant,Physical production
+148,Make Up Artist,Physical production
+154,Boom Operator,Physical production
+155,Cameraperson,Physical production
+175,Captain,Physical production
+220,Effects technical director (FX TD),Animation
+221,Head of story,Animation
+271,Special effects (SFX) editor,Post-production
+273,Foley editor,Post-production
+279,Audio describer,Post-production
+285,Film Programmer,Distribution
+313,Head of food and beverage,Exhibition
+53,Shader Writer,VFX
+125,Labourer,Physical production
+165,Gaffer,Physical production
+169,Generator Operator,Physical production
+178,Artificial intelligence programmer,Video games
+186,Esports producer,Video games
+191,Games publisher,Video games
+214,Composer,Animation
+274,Re recording mixer,Post-production
+292,Box office supervisor,Exhibition
+41,Tracker,VFX
+59,2D Supervisor,VFX
+122,Painter,Physical production
+166,Electrician,Physical production
+218,Edit assistant,Animation
+320,Head of human resources,Exhibition
+13,Effects TD,VFX
+297,Ushers,Exhibition
+160,Camera Operator,Physical production
+164,Still Photographer,Physical production
+208,Virtual reality programmer,Video games
+312,Programming director,Exhibition
+316,Head of IT,Exhibition
+331,Copyeditor,Exhibition
+56,Previs Artist,VFX
+95,Production Manager,Physical production
+119,Carpenter,Physical production
+209,Animation TD,Animation
+10,Generalist TD,VFX
+91,Tech Runner,VFX
+171,Rigger,Physical production
+194,Games writer,Video games
+204,Texturing artist,Video games
+239,Music Editor,Post-production
+290,Bar supervisor,Exhibition
+206,User experience (UX) designer,Video games
+269,Sound editor,Post-production
+156,Driver,Physical production
+22,Crowd TD,VFX
+321,IT department,Exhibition
+31,ATD,VFX
+68,Bidding Producer,VFX
+76,Editorial Assistant,VFX
+212,Background designer,Animation
+238,Colourist,Post-production
+315,Head of design,Exhibition
+259,Music supervisor,Post-production
+242,Subtitler,Post-production
+277,Audio assistant,Post-production
+28,Environment TD,VFX
+301,Servers,Exhibition
+306,Duty officer,Exhibition
+61,Compositing Artist,VFX
+213,Character designer,Animation
+149,Hairdresser,Physical production
+16,Lighting TD,VFX
+231,Sound designer,Animation
+190,Games producer,Video games
+286,Projectionist,Exhibition
+300,Food & beverage manager,Exhibition
+235,Bookings Coordinator,Post-production
+25,Creature TD,VFX
+201,Physics programmer,Video games
+302,Bar staff,Exhibition
+307,Front of house manager,Exhibition
+197,games designer,Video games
+266,Records manager,Post-production
+293,Bar manager,Exhibition
+314,Head of communications,Exhibition
+281,Distribution Executive,Distribution
+34,Modeller,VFX
+187,Gameplay designer,Video games
+310,Operations director,Exhibition
+230,Sales executive,Animation
+328,Marketing and communications manager,Exhibition
+232,Storyboard artist,Animation
+200,Network programmer,Video games
+317,Head of finance,Exhibition
+304,Customer service assistant,Exhibition
+257,Grader,Post-production
+84,Systems Engineer,VFX
+184,Engine programmer,Video games
+1,VFX supervisor,VFX
+71,Production Coordinator,VFX
+205,Tools engineer,Video games
+44,Matte Painter,VFX
+289,Duty manager,Exhibition
+195,Generalist programmer,Video games
+5,CG Supervisor,VFX
+227,Production coordinator,Animation
+193,Games tester,Video games
+234,Post production Supervisor,Post-production
+180,Audio programmer,Video games
+82,Systems Administrator,VFX
+181,Build engineer,Video games
+288,Assistant manager,Exhibition
+79,Software Developer,VFX
+303,Floor manager,Exhibition
+223,Lighting artist,Animation
+72,Production Assistant,VFX
+241,Archivist,Post-production
+7,Animator,VFX
+216,Concept artist,Animation
+224,Marketing executive,Animation
+272,Sound designer,Post-production
+222,Layout artist,Animation
+19,Pipeline TD,VFX
+248,Engineer assistant,Post-production
+244,Post production coordinator,Post-production
+324,programmer,Exhibition
+66,VFX Producer,VFX
+287,General manager,Exhibition
+229,Runner,Animation
+298,Technical manager,Exhibition
+202,Technical animator,Video games
+196,Graphics programmer,Video games
+228,Rigger,Animation
+323,Office manager,Exhibition
+217,Director,Animation
+264,Quality control,Post-production
+319,Payroll,Exhibition
+219,Editor,Animation
+267,Translator,Post-production
+182,Community manager,Video games
+247,engineer,Post-production
+305,Events manager,Exhibition
+280,Sales agent,Distribution
+215,Compositor,Animation
+311,Marketing director,Exhibition
+265,Librarian,Post-production
+296,Bartender,Exhibition
+185,Environment artist,Video games
+183,Concept artist,Video games
+188,Gameplay programmer,Video games
+198,Level designer,Video games
+233,Writer,Animation
+282,Publicist,Distribution
+207,VFX artist,Video games
+211,Art director,Animation
+327,Social media manager,Exhibition
+203,Technical artist,Video games
+199,Marketing executive,Video games
+177,Animator,Video games
+246,Receptionist,Post-production
+226,Producer,Animation
+318,Accounts,Exhibition
+284,Marketing Assistant,Distribution
+325,Graphic designer,Exhibition
+237,Editor,Post-production
+210,Animator,Animation
+299,Chef,Exhibition
