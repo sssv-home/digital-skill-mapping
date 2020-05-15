@@ -1,30 +1,15 @@
 import csv
 import jsonpickle as jsonpickle
-from MappingProject.src.components import Skill, Occupation, JobPosting, SkillToOccuMap
+from MappingProject.src.components import Skill, Occupation, JobPosting, SkillToOccuMap, load_skills, load_job_postings
 
-skills_list = []
-job_postings = []
+skills_list = load_skills("../data/digital_skills_esco.csv")
+job_postings = load_job_postings("../data/job_postings.csv")
 map_output = []
 
 
 def found_text(text, text_to_find):
     return text.find(text_to_find) > -1
 
-
-with open("../data/digital_skills_esco.csv", newline='') as skills_file:
-
-    reader = csv.DictReader(skills_file)
-    for row in reader:
-        skill = Skill(row["title"], row["skill_type"], row["description"], row["alt_labels"], True, source="ESCO", esco_class=row["class_type"])
-        skills_list.append(skill)
-    skills_file.close()
-
-with open("../data/job_postings.csv", newline='', encoding='utf-8-sig') as jobs_file:
-    reader = csv.DictReader(jobs_file)
-    for row in reader:
-        posting = JobPosting(row["job_id"], row["job_title"].strip('"'), row["category"], row["posting_job_description"])
-        job_postings.append(posting)
-    jobs_file.close()
 
 progress_count = 0
 with open("../map/skill-occu-mapping.json", "w") as outfile:
