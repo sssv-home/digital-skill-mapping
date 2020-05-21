@@ -64,9 +64,10 @@ def load_job_postings(file_path):
 
 
 class SkillToOccuMap:
-    def __init__(self, skill, related_jobs):
+    def __init__(self, skill, related_jobs, source="Job ads"):
         self.skill = skill
         self.related_jobs = related_jobs
+        self.source = source
 
 
 class OccuToSkillMap:

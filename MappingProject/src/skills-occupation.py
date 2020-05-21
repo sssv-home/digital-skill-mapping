@@ -1,4 +1,3 @@
-import csv
 import jsonpickle as jsonpickle
 from MappingProject.src.components import Skill, Occupation, JobPosting, SkillToOccuMap, load_skills, load_job_postings
 
