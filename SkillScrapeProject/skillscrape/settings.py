@@ -5,7 +5,11 @@ NEWSPIDER_MODULE = 'skillscrape.spiders'
 
 LOG_LEVEL = 'INFO'
 
-FEED_FORMAT = 'jsonlines'
+FEEDS = {
+    'output/esco.json': {
+        'format': 'jsonlines'
+    }
+}
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
